@@ -12,5 +12,9 @@
 		"@cloudflare/vitest-pool-workers": "^0.12.4",
 		"vitest": "~3.2.0",
 		"wrangler": "^4.61.0"
+	},
+	"dependencies": {
+		"@rgrove/parse-xml": "^4.2.0",
+		"object-traversal": "^1.0.1"
 	}
 }
