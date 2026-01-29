@@ -1,0 +1,6 @@
+# RSS proxy
+
+really simple, it does two things:
+
+1. transform rss to json
+2. append an `isoDate`(original `pubDate` but in ISO 8601 format) property to rss item
